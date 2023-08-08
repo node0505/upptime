@@ -11,6 +11,9 @@ sites:
     url: https://news.ycombinator.com
   - name: Xubilla Homepage
     url: https://xubilla.me
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
