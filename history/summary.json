@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 78,
-    "timeWeek": 129,
-    "timeMonth": 131,
+    "timeDay": 82,
+    "timeWeek": 123,
+    "timeMonth": 129,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-09-07": 15
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 186,
-    "timeWeek": 184,
-    "timeMonth": 243,
-    "timeYear": 215,
+    "time": 214,
+    "timeDay": 193,
+    "timeWeek": 186,
+    "timeMonth": 242,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 420,
-    "timeWeek": 288,
-    "timeMonth": 334,
-    "timeYear": 318,
+    "time": 315,
+    "timeDay": 252,
+    "timeWeek": 263,
+    "timeMonth": 326,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2023-09-13": 20
     }
@@ -69,10 +69,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 55,
-    "timeWeek": 133,
-    "timeMonth": 102,
+    "timeDay": 61,
+    "timeWeek": 125,
+    "timeMonth": 101,
     "timeYear": 100,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Xubilla Cloud",
+    "url": "https://cloud.xubilla.me",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.xubilla.me.ico",
+    "slug": "xubilla-cloud",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {}
   }
 ]
