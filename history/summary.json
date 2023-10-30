@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 135,
-    "timeWeek": 128,
+    "timeWeek": 99,
     "timeMonth": 115,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -80,9 +80,9 @@
     "url": "https://cloud.xubilla.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.xubilla.me.ico",
     "slug": "xubilla-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 63,
     "timeMonth": 83,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
