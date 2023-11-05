@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 366,
-    "timeWeek": 137,
-    "timeMonth": 116,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 81,
+    "timeWeek": 124,
+    "timeMonth": 115,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2023-09-07": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 230,
-    "timeWeek": 177,
-    "timeMonth": 157,
-    "timeYear": 195,
+    "time": 200,
+    "timeDay": 477,
+    "timeWeek": 251,
+    "timeMonth": 178,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 306,
-    "timeWeek": 249,
-    "timeMonth": 286,
-    "timeYear": 304,
+    "time": 308,
+    "timeDay": 475,
+    "timeWeek": 278,
+    "timeMonth": 299,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-09-13": 20
     }
@@ -68,37 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 211,
-    "timeWeek": 104,
-    "timeMonth": 109,
-    "timeYear": 104,
+    "time": 102,
+    "timeDay": 52,
+    "timeWeek": 96,
+    "timeMonth": 106,
+    "timeYear": 102,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Xubilla Cloud",
-    "url": "https://cloud.xubilla.me",
-    "icon": "https://icons.duckduckgo.com/ip3/cloud.xubilla.me.ico",
-    "slug": "xubilla-cloud",
-    "status": "down",
-    "uptime": "84.27%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "26.67%",
-    "uptimeMonth": "83.13%",
-    "uptimeYear": "84.27%",
-    "time": 83,
-    "timeDay": 0,
-    "timeWeek": 64,
-    "timeMonth": 82,
-    "timeYear": 83,
-    "dailyMinutesDown": {
-      "2023-11-05": 63,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440,
-      "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 129
-    }
   }
 ]
