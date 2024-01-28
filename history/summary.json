@@ -65,7 +65,7 @@
     "url": "https://xubilla.me",
     "icon": "https://icons.duckduckgo.com/ip3/xubilla.me.ico",
     "slug": "xubilla-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 98,
     "timeMonth": 114,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   }
 ]
